@@ -7,5 +7,5 @@
 
   - name: i am going install tree
     apt:
-      name: tree
+      name: i am going to install tree
       state: present
